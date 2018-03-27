@@ -49,7 +49,7 @@ terraform plan
 terraform get
 terraform apply
 
-Referências do Terraform:
+**Referências do Terraform:**
 
 [Referência IBM Cloud Plug In](https://ibm-cloud.github.io/tf-ibm-docs/v0.7.0/)
 
