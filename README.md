@@ -29,7 +29,7 @@ mv ~/teste-terraform/terraform-provider-ibm ~/terraform.d/plugins
 
 **8.** Clonar o script de teste
 ```
-git clone <endereço git>
+git clone https://github.com/itirohidaka/terraform-vsi/blob/master/itiro.tf
 cd ~/teste-terraform/terraform-vsi
 ```
 **9.** Modificar os parâmetros de API (bluemix e softlayer) no arquivo itiro.tf
