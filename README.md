@@ -50,6 +50,7 @@ terraform get
 terraform apply
 
 Referências do Terraform:
+
 [Referência IBM Cloud Plug In](https://ibm-cloud.github.io/tf-ibm-docs/v0.7.0/)
 
 [Github do Terraform Provider IBM](https://github.com/IBM-Cloud/terraform-provider-ibm)
