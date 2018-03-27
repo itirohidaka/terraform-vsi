@@ -2,46 +2,46 @@
 
 Procedimento de instalação:
 
-1. Download terraform [(terraform.io)](https://terraform.io)
+**1.** Download terraform [(terraform.io)](https://terraform.io)
 
-2. Copiar o binário para /usr/local/bin
+**2.** Copiar o binário para /usr/local/bin
 
-3. Criar uma pasta para os arquivos TF
+**3.** Criar uma pasta para os arquivos TF
 ```/bin/bash
 mkdir ~/teste-terraform
 cd ~/teste-terraform
 terraform init
 ```
 
-4. Download do Plug-In IBM Cloud (https://github.com/IBM-Cloud/terraform-provider-ibm/releases) e descompactar
+**4.** Download do Plug-In IBM Cloud (https://github.com/IBM-Cloud/terraform-provider-ibm/releases) e descompactar
 
-5. Criar a Pasta ~/terraform.d/plugins
+**5.** Criar a Pasta ~/terraform.d/plugins
 ```/bin/bash
 mkdir ~/terraform.d/plugins
 ```
 
-6. Download do Plug-In IBM Cloud (https://github.com/IBM-Cloud/terraform-provider-ibm/releases) e descompactar
+**6.** Download do Plug-In IBM Cloud (https://github.com/IBM-Cloud/terraform-provider-ibm/releases) e descompactar
 
-7. Copiar o binário (terraform-provider-ibm) para a pasta ~/terraform.d/plugin
+**7.** Copiar o binário (terraform-provider-ibm) para a pasta ~/terraform.d/plugin
 ```
 mv ~/teste-terraform/terraform-provider-ibm ~/terraform.d/plugins
 ```
 
-8. Clonar o script de teste
+**8.** Clonar o script de teste
 ```
 git clone <endereço git>
 cd ~/teste-terraform/terraform-vsi
 ```
-9. Modificar os parâmetros de API (bluemix e softlayer) no arquivo itiro.tf
+**9.** Modificar os parâmetros de API (bluemix e softlayer) no arquivo itiro.tf
 
-10. Modificar os parâmetros do aqruivo itiro.tf (sshkey id, subnets, etc)
+**10.** Modificar os parâmetros do aqruivo itiro.tf (sshkey id, subnets, etc)
 
-11. Verificar se está tudo OK com o arquivo TF.
+**11.** Verificar se está tudo OK com o arquivo TF.
 ```
 terraform plan
 ```
 
-12. Criar as VSis e o Load Balancer
+**12.** Criar as VSis e o Load Balancer
 ```
 terraform apply
 ```
