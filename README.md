@@ -5,9 +5,11 @@ Download terraform
 Copiar o binário para /usr/local/bin
 
 Criar uma pasta para os arquivos TF
+'''/bin/bash
 mkdir ~/teste-terraform
 cd ~/teste-terraform
 terraform init
+'''
 
 Download do Plug-In IBM Cloud (https://github.com/IBM-Cloud/terraform-provider-ibm/releases)
 Criar a Pasta ~/terraform.d/plugin
