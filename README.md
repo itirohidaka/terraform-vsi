@@ -1,8 +1,10 @@
 # terraform-vsi
 
 Procedimento de instalação:
-Download terraform
-Copiar o binário para /usr/local/bin
+
+1. Download terraform [(terraform.io)](terraform.io)
+
+2. Copiar o binário para /usr/local/bin
 
 Criar uma pasta para os arquivos TF
 ```/bin/bash
