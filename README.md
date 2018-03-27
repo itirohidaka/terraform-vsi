@@ -62,7 +62,7 @@ terraform apply
 
 **Referências do Terraform:**
 
-[Terraform.io](https://terraform.io)
+[Site Oficial do Terraform](https://terraform.io)
 
 [Referência IBM Cloud Plug In](https://ibm-cloud.github.io/tf-ibm-docs/v0.7.0/)
 
