@@ -46,7 +46,7 @@ terraform plan
 terraform apply
 ```
 
-
+---
 
 **Comandos básicos:**
 
@@ -58,7 +58,7 @@ terraform get
 
 terraform apply
 
-
+---
 
 **Referências do Terraform:**
 
