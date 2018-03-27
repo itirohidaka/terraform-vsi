@@ -1,6 +1,6 @@
-# terraform-vsi
+# Utilizando Terraform para a criaço de VSi (Virtual Server) na IBM Cloud
 
-Procedimento de instalação:
+Procedimento de instalação no Mac OSx
 
 **1.** Download terraform [(terraform.io)](https://terraform.io)
 
