@@ -48,7 +48,7 @@ terraform apply
 
 ---
 
-**Comandos básicos:**
+**Comandos básicos do Terraform:**
 
 terraform init
 
@@ -61,6 +61,8 @@ terraform apply
 ---
 
 **Referências do Terraform:**
+
+[Terraform.io](https://terraform.io)
 
 [Referência IBM Cloud Plug In](https://ibm-cloud.github.io/tf-ibm-docs/v0.7.0/)
 
