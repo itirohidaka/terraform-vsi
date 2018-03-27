@@ -48,8 +48,11 @@ terraform apply
 
 **Comandos básicos:**
 terraform init
+
 terraform plan
+
 terraform get
+
 terraform apply
 
 **Referências do Terraform:**
