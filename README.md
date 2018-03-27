@@ -51,7 +51,11 @@ terraform apply
 
 Referências do Terraform:
 [Referência IBM Cloud Plug In](https://ibm-cloud.github.io/tf-ibm-docs/v0.7.0/)
+
 [Github do Terraform Provider IBM](https://github.com/IBM-Cloud/terraform-provider-ibm)
+
 [Download do PlugIn IBM Cloud](https://github.com/IBM-Cloud/terraform-provider-ibm/releases)
+
 [Artigo sobre Terraform e Cluster K8s](https://www.ibm.com/blogs/bluemix/2017/09/using-ibm-cloud-provider-provision-infrastructure/)
+
 [Sample Code](https://github.com/Cloud-Schematics)
